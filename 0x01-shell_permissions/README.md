@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0.Switch user from current user to betty
 1.prints effective username of the current user
 2.prints all the groups the current user is part of.
@@ -12,3 +13,6 @@
 11.adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 12.creates a directory called my_dir with permissions 751 in the working directory.
 13.changes the group owner to school for the file hello 
+=======
+betty
+>>>>>>> 1e21b51dc0a2c9ba45b4415ebf29e0b79e1dfdc0
